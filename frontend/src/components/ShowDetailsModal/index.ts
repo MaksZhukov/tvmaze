@@ -1,0 +1,1 @@
+export { ShowDetailsModal } from './ShowDetailsModal';

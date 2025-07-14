@@ -1,0 +1,19 @@
+{
+  "name": "tvmaze-shared",
+  "version": "1.0.0",
+  "description": "Shared types for TVMaze frontend and backend",
+  "type": "module",
+  "main": "types.ts",
+  "types": "types.ts",
+  "exports": {
+    ".": "./types.ts"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "tvmaze",
+    "shared"
+  ],
+  "author": "",
+  "license": "ISC"
+} 
